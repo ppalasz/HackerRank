@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace TestConsoleApp
 {
-    public static class Testing
+    public static class WordChain
     {
         public static int LongestChain(List<string> words)
         {
